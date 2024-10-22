@@ -1,0 +1,9 @@
+#result{
+    display: none;
+    background-color: grey;
+    width: 300px;
+    height: 300px;
+}
+textarea {
+    display: block;
+}
